@@ -1,3 +1,0 @@
-TransitionAlpha = 1;
-
-

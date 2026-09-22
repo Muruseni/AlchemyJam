@@ -1,3 +1,0 @@
-MusicStart = false;
-
-persistent = true;
