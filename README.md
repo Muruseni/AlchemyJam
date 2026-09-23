@@ -29,10 +29,10 @@ Main Variables: PascalCase
 Temp Variables: _ + camelCase
 *Info not words seperated by underscore
 
-Examples:
-sblack_long_bottle (inccorect)
-sblack_longbottle (Partailly correct)
-sPotion_black_longbottle (Correct, perferably shortend)
+Examples:  
+sblack_long_bottle (inccorect)  
+sblack_longbottle (Partailly correct)  
+sPotion_black_longbottle (Correct, perferably shortend)  
 
 -- Disclaimers -- 
 
