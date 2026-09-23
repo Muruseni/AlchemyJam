@@ -112,7 +112,7 @@ else if (_tile_index >= 7 && _tile_index <= 15)
     );
 }
     // Dirt: tiles 16-17
-    else if (_tile_index >= 16 && _tile_index <= 18)
+    else if (_tile_index >= 50 && _tile_index <= 99)
 {
     audio_play_sound(
         choose(
@@ -133,7 +133,7 @@ else if (_tile_index >= 7 && _tile_index <= 15)
     );
 }
     // Grass: tiles 19-21
-    else if (_tile_index >= 19 && _tile_index <= 21)
+    else if (_tile_index >= 1 && _tile_index <= 49)
 {
     audio_play_sound(
         choose(
