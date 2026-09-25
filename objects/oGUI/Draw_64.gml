@@ -11,12 +11,10 @@ if (PauseOpen){
     draw_set_color(c_white);
     draw_text(100, 100, "PAUSED");
 }
+
 if (InventoryOpen)
 {
-    draw_sprite(
-        sInventoryBg,
-        0,
-        display_get_gui_width() / 2,
-        display_get_gui_height() / 2
-    );
+
+}else{
+    
 }
