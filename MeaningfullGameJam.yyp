@@ -294,6 +294,7 @@
     {"id":{"name":"tWall_Variations","path":"sprites/tWall_Variations/tWall_Variations.yy",},},
     {"id":{"name":"tWater_tiles","path":"sprites/tWater_tiles/tWater_tiles.yy",},},
     {"id":{"name":"UIAssets","path":"sprites/UIAssets/UIAssets.yy",},},
+    {"id":{"name":"Test","path":"tilesets/Test/Test.yy",},},
     {"id":{"name":"tsCol","path":"tilesets/tsCol/tsCol.yy",},},
     {"id":{"name":"tsDungeon_Props","path":"tilesets/tsDungeon_Props/tsDungeon_Props.yy",},},
     {"id":{"name":"tsDungeonTiles","path":"tilesets/tsDungeonTiles/tsDungeonTiles.yy",},},
