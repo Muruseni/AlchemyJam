@@ -27,29 +27,7 @@ function scSpriteCollision()
            break;
    }
 
-    // Horizontal sprite
-    if (MoveX != 0 && MoveY == 0)
-    {
-        _width = 42;
-        _height = 32;
-    }
-
-    // Diagonal movement
-    else if (MoveX != 0 && MoveY != 0)
-    {
-        if (abs(MoveX) > abs(MoveY))
-        {
-            _width = 42;
-            _height = 32;
-        }
-        else
-        {
-            _width = 23;
-            _height = 43;
-        }
-    }
-
-
+   
     // =========================================================
     // HORIZONTAL MOVEMENT
     // =========================================================

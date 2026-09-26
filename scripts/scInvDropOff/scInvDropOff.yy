@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scInvDropOff",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scInvDropOff",
+  "parent":{
+    "name":"inventory",
+    "path":"folders/scripts/inventory.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
