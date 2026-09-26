@@ -14,8 +14,8 @@
           -3112,-2147483648,2,110,111,-3,-2147483648,5,110,111,-2147483648,1073742101,1073742101,-53,-2147483648,
           2,135,136,-3,-2147483648,5,135,136,-2147483648,1073742101,1073742101,-61,-2147483648,-2,1073742101,-55,
           -2147483648,2,251,252,-501,-2147483648,2,152,153,-6,-2147483648,2,152,153,-53,-2147483648,2,177,178,
-          -6,-2147483648,2,177,178,-750,-2147483648,2,27,28,-61,-2147483648,2,52,53,-61,-2147483648,2,77,78,-1165,
-          -2147483648,
+          -6,-2147483648,2,177,178,-63,-2147483648,1,253,-686,-2147483648,2,27,28,-61,-2147483648,2,52,53,-61,
+          -2147483648,2,77,78,-1165,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tsHouseDeco","path":"tilesets/tsHouseDeco/tsHouseDeco.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"InsideWallsFront","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"InsideWallsFront","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":94,"SerialiseWidth":63,"TileCompressedData":[
           -3047,-2147483648,16,20,21,20,21,20,21,20,21,20,21,20,21,20,21,20,21,-47,-2147483648,1,228,-14,0,1,233,
