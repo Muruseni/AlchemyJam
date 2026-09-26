@@ -17,3 +17,9 @@ for(var i = 0; i < array_length(InvAnims); i++){
 
 display_set_gui_size(400, 400);
 
+
+// Dragging
+IsDragging = false;
+DragItem = -1;
+DragSource = -1;
+DragFromAlchemy = false;
