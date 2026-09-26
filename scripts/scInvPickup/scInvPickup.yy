@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scInvPickup",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scInvPickup",
+  "parent":{
+    "name":"inventory",
+    "path":"folders/scripts/inventory.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

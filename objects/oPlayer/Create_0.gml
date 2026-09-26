@@ -10,17 +10,17 @@ FootstepTimer = 0;
 FootstepDelay = 28;
 
 // Collision sizes
-CollisionUpWidth = 23;
-CollisionUpHeight = 43;
+CollisionUpWidth = 16;
+CollisionUpHeight = 30;
 
-CollisionDownWidth = 23;
-CollisionDownHeight = 43;
+CollisionDownWidth = 16;
+CollisionDownHeight = 30;
 
-CollisionLeftWidth = 23;
-CollisionLeftHeight = 32;
+CollisionLeftWidth = 16;
+CollisionLeftHeight = 30;
 
-CollisionRightWidth = 23;
-CollisionRightHeight = 32;
+CollisionRightWidth = 16;
+CollisionRightHeight = 30;
 
 // Current facing direction
 FacingDirection = "down";
