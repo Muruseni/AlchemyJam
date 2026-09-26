@@ -66,6 +66,7 @@
   },
   "name":"MeaningfullGameJam",
   "resources":[
+    {"id":{"name":"oAlchemyTable","path":"objects/oAlchemyTable/oAlchemyTable.yy",},},
     {"id":{"name":"oGUI","path":"objects/oGUI/oGUI.yy",},},
     {"id":{"name":"oInventory","path":"objects/oInventory/oInventory.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
@@ -172,6 +173,7 @@
     {"id":{"name":"sBonfire_09_Sheet","path":"sprites/sBonfire_09_Sheet/sBonfire_09_Sheet.yy",},},
     {"id":{"name":"sBonfire_10_Sheet","path":"sprites/sBonfire_10_Sheet/sBonfire_10_Sheet.yy",},},
     {"id":{"name":"sBonfire","path":"sprites/sBonfire/sBonfire.yy",},},
+    {"id":{"name":"sBrewButton","path":"sprites/sBrewButton/sBrewButton.yy",},},
     {"id":{"name":"sCooking_Station","path":"sprites/sCooking_Station/sCooking_Station.yy",},},
     {"id":{"name":"sDungeon_Props","path":"sprites/sDungeon_Props/sDungeon_Props.yy",},},
     {"id":{"name":"sempty_diamond","path":"sprites/sempty_diamond/sempty_diamond.yy",},},
