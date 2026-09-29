@@ -1,11 +1,11 @@
 {
   "$GMSprite":"v2",
-  "%Name":"sBrewButton",
+  "%Name":"sBrewButton_Pressed",
   "bboxMode":0,
   "bbox_bottom":23,
   "bbox_left":0,
   "bbox_right":79,
-  "bbox_top":0,
+  "bbox_top":1,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"766b95f5-3213-407c-bd49-d8eefc6d10b0","blendMode":0,"displayName":"default","isLocked":false,"name":"766b95f5-3213-407c-bd49-d8eefc6d10b0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"sBrewButton",
+  "name":"sBrewButton_Pressed",
   "nineSlice":{
     "$GMNineSliceData":"",
     "bottom":5,
@@ -52,7 +52,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"sBrewButton",
+    "%Name":"sBrewButton_Pressed",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -76,7 +76,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"sBrewButton",
+    "name":"sBrewButton_Pressed",
     "playback":1,
     "playbackSpeed":5.0,
     "playbackSpeedType":0,
@@ -88,7 +88,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a03c136d-5fd2-4976-beb2-2d3f2099f942","path":"sprites/sBrewButton/sBrewButton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a03c136d-5fd2-4976-beb2-2d3f2099f942","path":"sprites/sBrewButton_Pressed/sBrewButton_Pressed.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"094e82be-fe91-461c-925b-55853d1a2e8f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
