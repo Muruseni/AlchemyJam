@@ -135,6 +135,7 @@
     {"id":{"name":"soStepWood_8","path":"sounds/soStepWood_8/soStepWood_8.yy",},},
     {"id":{"name":"Alchemy_Table_02_Sheet","path":"sprites/Alchemy_Table_02_Sheet/Alchemy_Table_02_Sheet.yy",},},
     {"id":{"name":"character_Idle_left","path":"sprites/character_Idle_left/character_Idle_left.yy",},},
+    {"id":{"name":"chracter_idle_up","path":"sprites/chracter_idle_up/chracter_idle_up.yy",},},
     {"id":{"name":"Fire_01_Sheet","path":"sprites/Fire_01_Sheet/Fire_01_Sheet.yy",},},
     {"id":{"name":"Fire_02_Sheet","path":"sprites/Fire_02_Sheet/Fire_02_Sheet.yy",},},
     {"id":{"name":"idle_down_before_save","path":"sprites/idle_down_before_save/idle_down_before_save.yy",},},
