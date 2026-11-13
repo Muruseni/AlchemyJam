@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sAlchemy_Table_01_Sheet",
-    "path":"sprites/sAlchemy_Table_01_Sheet/sAlchemy_Table_01_Sheet.yy",
+    "name":"sBrewing_Start",
+    "path":"sprites/sBrewing_Start/sBrewing_Start.yy",
   },
   "spriteMaskId":null,
   "visible":true,
